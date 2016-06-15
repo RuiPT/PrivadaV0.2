@@ -1,0 +1,198 @@
+<resources>
+    <string name="app_name">PrivadaV0.2</string>
+    <string name="action_settings">Rui Alves</string>
+    <string name="nomedoestabelecimentos">Nome do Estebelecimento:</string>
+    <string name="data">Data:</string>
+    <string name="hora">Hora:</string>
+    <string name="versão">Versão 0.2</string>
+    <string name="app">APP da atividade da Segurança Privada em Portugal</string>
+
+    \\Diplomas legais
+    <string name="Lei34">Lei n.º 34/2013 de 16 de maio</string>
+    <string name="Portaria_273">Portaria 273/2016 de 20AGOSTO </string>
+
+    \\punições
+    <string name="art_59">Artigo 59.º Contraordenações e coimas</string>
+    <string name="art_59_Graves">2 - São graves as seguintes contraordenações:</string>
+    <string name="art_59_leves">3 - São contraordenações leves:</string>
+   <string name="texto_art59N4_leves">
+        4 - Quando cometidas por pessoas coletivas, as contraordenações previstas nos números anteriores são punidas com as seguintes coimas:
+        \na)	De € 1500 a € 7500, no caso das contraordenações leves;
+        \n...
+        \n5 - Quando cometidas por pessoas singulares, as contraordenações previstas nos n.ºs 1 a 3 são punidas com as seguintes coimas:
+        \na)	De € 150 a € 750, no caso das contraordenações leves;
+        \n</string>
+    <string name="texto_art59N4_graves">  4 - Quando cometidas por pessoas coletivas, as contraordenações previstas nos números anteriores são punidas com as seguintes coimas:
+        \n....
+        \nb)	De € 7500 a € 37 500, no caso das contraordenações graves;
+        \n5 - Quando cometidas por pessoas singulares, as contraordenações previstas nos n.ºs 1 a 3 são punidas com as seguintes coimas:
+        \n....
+        \nb)	De € 300 a € 1500, no caso das contraordenações graves;
+        \n</string>
+
+    <string name="texto_Art59N4_muito_graves">
+        4 - Quando cometidas por pessoas coletivas, as contraordenações previstas nos números anteriores são punidas com as seguintes coimas:
+        \n....
+        \nc)	De € 15 000 a € 44 500, no caso das contraordenações muito graves.
+        \n5 - Quando cometidas por pessoas singulares, as contraordenações previstas nos n.ºs 1 a 3 são punidas com as seguintes coimas:
+        \n....
+        \nc)	De € 600 a € 3000, no caso das contraordenações muito graves.
+        \n</string>
+
+
+    \\Legislação em artigos
+
+    \\Lei 34/2013 PUBLICIDADE
+    <string name="Publicidade">PUBLICIDADE</string>
+    <string name="art_25_formação">Artigo 25.º Formação profissional</string>
+    <string name="art25_N4">....\n4 - Qualquer publicidade no âmbito da formação de segurança privada contém obrigatoriamente a designação comercial da entidade formadora e o número da respetiva autorização. </string>
+    <string name="art_37_deveres_especiais">Artigo 37.º Deveres especiais</string>
+    <string name="art_37_numero_2">....\n2 - Constitui dever especial das entidades titulares de alvará mencionar o respetivo número na faturação, correspondência e publicidade.\n.... </string>
+
+    \\Portaria 273/2013 Publicidade
+    <string name="art_56">Artigo 56.º Publicidade</string>
+    <string name="art_56_N1_N2">
+        1 - Para efeitos do n.º 4 do artigo 25.º e n.º 2 do artigo 37.º da Lei n.º 34/2013, de 16 de maio, considera-se como publicidade qualquer referência aos serviços prestados pela entidade, independentemente do suporte ou meio de divulgação utilizado.
+       \n2 - O disposto no número anterior é aplicável às inscrições ou imagens, independentemente do suporte, colocadas em imóveis ou veículos de empresa de segurança privada ou entidade formadora, ainda que destinadas à sua identificação e localização.
+       \n3 - As empresas de segurança privada e as entidades formadoras não devem induzir o consumidor relativamente à prestação de serviços para os quais não estejam autorizados. </string>
+
+    \\Lei 34/2013 Publicidade contra ordenações
+    <string name="art_59_N3">....\n3 - São contraordenações leves:\na)	O incumprimento do estabelecido no n.º 4 do artigo 25.º e no n.º 2 do artigo 37.º; </string>
+
+    \\Lei 34/2013 Central de contacto permanente
+    <string name="contacto_permanente"> CENTRAL DE CONTACTO PERMANENTE </string>
+    <string name="art30">Artigo 30º Central de Contacto Permanente</string>
+    <string name="central_contacto_permanente">
+    \n1 - As entidades titulares de alvará asseguram a presença permanente nas suas instalações de pessoal que garanta o contacto, a todo o tempo, através de rádio ou outro meio de comunicação idóneo, com o pessoal de vigilância, os utilizadores dos serviços e as forças de segurança.
+    \n2 - Para efeitos do disposto no número anterior e desde que possua mais de uma instalação operacional, a entidade titular do alvará deve indicar em qual ou quais delas funciona o contacto permanente.
+    \n3 - O contacto permanente é obrigatoriamente assegurado por pessoal de segurança privada.</string>
+
+    \\Portaria 273/2013
+    <string name="art54">Artigo 54.º Central de contacto permanente</string>
+    <string name="art54N1">
+    \n - A central de contacto permanente prevista no n.º 1 do artigo 30.º da Lei n.º 34/2013, de 16 de maio, deve garantir, no mínimo, as seguintes funções:
+    \na)	Receber e tratar os pedidos de apoio do pessoal de vigilância que se encontre no exercício de funções em postos de trabalho exterior;
+    \nb)	Receber e tratar os alarmes pessoais emitidos pelos meios de comunicação utilizados pelo pessoal de vigilância de maneira a possibilitar sua localização;
+    \nc)	Transmitir instruções ao pessoal de vigilância relativas à prestação dos serviços de segurança privada;
+    \nd)	Receber e encaminhar pedidos de apoio de entidades a quem sejam prestados serviços de segurança privada;
+    \ne)	Transmitir as informações relevantes, nomeadamente, de localização, natureza ou a razão do pedido, quando solicitada a intervenção de forças e serviços de segurança, de emergência médica ou de bombeiros e proteção civil;
+    \nf)	Assegurar a comunicação permanente com o diretor de segurança.
+    \n2 - As funções de central de contacto permanente nas empresas de segurança privada que prestem serviços de segurança privada previstos nas alíneas c) e d) do n.º 1 do artigo 3.º da Lei n.º 34/2013, de 16 de maio, podem ser asseguradas pelas centrais de receção e monitorização de alarmes e pelos centros de controlo previstos nos artigos 8.º e 9.º.
+    \n3 - As empresas de segurança privada que apenas detenham os alvarás A ou B podem requerer a dispensa da obrigação de assegurar a presença permanente nas suas instalações de pessoal de segurança privada entre as 22 horas e as 7 horas, desde que os contratos de prestação de serviços celebrados não prevejam qualquer prestação nesse período.
+    \n4 - A dispensa prevista no número anterior é da competência do membro do Governo responsável pela área da administração interna, mediante pedido fundamentado, sendo válida por 6 meses e renovável por iguais períodos.
+    \n</string>
+
+    \\Lei 34/2013 Registo Informatico de atividades
+    <string name="resgistoatividades">Registo Informatico de Actividades</string>
+    <string name="Art38">Artigo 38.º Registo de atividades</string>
+    <string name="Art38N123">1 - Do registo informático referido na alínea c) do n.º 1 do artigo anterior constam os seguintes elementos:
+    \na)	Designação e número de identificação fiscal do cliente;
+    \nb)	Número do contrato;
+    \nc)	Tipo de serviço prestado;
+    \nd)	Data de início e termo do contrato;
+    \ne)	Local ou locais onde o serviço é prestado;
+    \nf)	Horário da prestação dos serviços;
+    \ng)	Meios humanos utilizados;
+    \nh)	Meios materiais e caraterísticas técnicas desses meios.
+    \n2 - O disposto no número anterior é aplicável às entidades titulares de licença de autoproteção, salvo o disposto nas alíneas a) a e).
+    \n3 - Os contratos de prestação de serviços das empresas de segurança privada revestem a forma escrita e contêm os elementos previstos nas alíneas a) a h) do n.º 1, bem como o preço e as condições de prestação dos mesmos.</string>
+
+
+    \\Lei 34/2013 Contratos de Prestação de Serviços
+    <string name="contratos_de_prestacao_servicos">Contratos de Prestação de Serviços</string>
+    <string name="Art38N3">......\n3 - Os contratos de prestação de serviços das empresas de segurança privada revestem a forma escrita e contêm os elementos previstos nas alíneas a) a h) do n.º 1, bem como o preço e as condições de prestação dos mesmos.</string>
+
+
+    \\Lei 34/2013 Ficheiros Individuais dos vigilantes
+    <string name="ficheiros_individuais_dos_vigilantes">Ficheiros Individuais dos vigilantes</string>
+    <string name="Art37N1_alH">1 - Constituem deveres especiais das entidades titulares de alvará ou de licença:
+        \n..... \nh) Organizar e manter atualizados ficheiros individuais do pessoal de segurança privada ao seu serviço, incluindo a cópia do cartão profissional e do certificado do registo criminal, atualizado anualmente, bem como a data de admissão ao serviço;\n....</string>
+
+
+    \\Lei 34/2013 Disticos Informativos do CCTV
+    <string name="disticos_informativos_do_cctv">Disticos Informativos do CCTV</string>
+    <string name="art31_N5N6">5 - Nos locais objeto de vigilância com recurso a câmaras de vídeo é obrigatória a afixação, em local bem visível, de informação sobre as seguintes matérias: \na) A existência e localização das câmaras de vídeo; \nb) A menção «Para sua proteção, este local é objeto de videovigilância»; \nc) A entidade de segurança privada autorizada a operar o sistema, pela menção do nome e alvará ou licença; \nd) O responsável pelo tratamento dos dados recolhidos perante quem os direitos de acesso e retificação podem ser exercidos. \n6 - Os avisos a que se refere o número anterior são acompanhados de simbologia adequada, nos termos definidos por portaria do membro do Governo responsável pela área da administração interna.</string>
+
+
+    \\Lei 34/2013 Botão de Panico Pessoal do vigilante de resposta a alarmes
+    <string name="bot_o_de_panico_pessoal_do_vigilante_de_resposta_a_alarmes">Botão de Panico Pessoal do vigilante de resposta a alarmes</string>
+    <string name="Texto_art65">1 - As entidades de segurança privada titulares de alvará ou licença C podem realizar complementarmente serviços de resposta e intervenção de alarmes, destinados à verificação pessoal do alarme, quando a verificação técnica confirme a existência de um alarme real.
+        \n2 - Para efeitos do n.º 1, o serviço de resposta e intervenção de alarmes deve ser assegurado por pessoal de vigilância habilitado com a especialidade de vigilante, uniformizado e em veículos identificados, devendo estar equipado com alarme pessoal e meios de comunicação que assegurem o contacto permanente com a central de receção e monitorização de alarmes.</string>
+    <string name="Texto_art59N3">....
+        \nc) O incumprimento das obrigações, deveres, formalidades e requisitos estabelecidos na presente lei ou fixados em regulamento, quando não constituam contraordenações graves ou muito graves.</string>
+
+
+    \\Lei 34/2013 Livro de Reclamações
+    <string name="livro_de_reclama_es">Livro de Reclamações</string>
+    <string name="uso_de_radio_licenca_da_anacom">Uso de Rádio licença da ANACOM</string>
+    <string name="AutorizacaoCNPD">Autorização da CNPD</string>
+
+    \\Lei 34/2013 conservar as imagens por 30 dias
+    <string name="imagens_CCTV_30_dias">Imagens CCTV conservadas por 30 dias</string>
+    <string name="texto_art31N2">\n.... \n2 - As gravações de imagem obtidas pelos sistemas videovigilância são conservadas, em registo codificado, pelo prazo de 30 dias contados desde a respetiva captação, findo o qual são destruídas. \n....</string>
+
+    \\Uso de canídeos
+    <string name="uso_de_canideos">Utilização de canídeos </string>
+    <string name="artigo_33_canideos">Artigo 33.º Canídeos</string>
+    <string name="Texto_art33">1 - As entidades titulares de alvará ou de licença só podem utilizar canídeos para o acompanhamento de pessoal de vigilância devidamente habilitado pela entidade competente.
+        \n2 - A utilização de canídeos está sujeita ao respetivo regime geral de identificação, registo e licenciamento.
+        \n3 - Em serviço, a utilização de canídeos só é permitida desde que autorizada por escrito pela entidade patronal, podendo a autorização ser revogada a todo o tempo.
+        \n4 - As entidades que utilizem canídeos como meio complementar de segurança devem possuir um seguro de responsabilidade civil específico de capital mínimo de € 50 000 e demais requisitos e condições fixados por portaria dos membros do Governo responsáveis pelas áreas das finanças e da administração interna, nomeadamente franquias, âmbito territorial e temporal, direito de regresso e exclusões. \n5 - As condições de utilização de canídeos e as provas de avaliação dos mesmos são definidas por portaria do membro do Governo responsável pela área da administração interna.
+    \n</string>
+    <string name="Texto_artN81">1 - Os canídeos têm de cumprir a legislação em vigor relativa a vacinação e registo. \n2 - A utilização não deve exceder as 8 horas diárias e não ultrapassar as 48 horas semanais, sendo proibido o recurso a canídeos doentes ou pouco cuidados.
+        \n3 - É proibida a utilização de canídeos em espaços fechados acessíveis ao público, em recintos desportivos e de espetáculos e divertimentos públicos, bem como em ações de controlo de pessoas.
+        \n4 - Os canídeos devem ser sempre conduzidos à trela que não pode exceder 2,5 m e utilizar açaime funcional. \n5 - As entidades de segurança privada que utilizem canídeos devem garantir que os mesmos são recolhidos em instalações adequadas.</string>
+    <string name="Texto_art82">1 - As entidades de segurança privada detentoras de canídeos para utilização como meio complementar de segurança devem promover o treino dos mesmos, com vista à sua socialização e obediência.
+        \n2 - O treino deve decorrer em centro de treino adequado e só pode ser ministrado por treinadores certificados nos termos do regime legal aplicável.
+        \n3 - A utilização de canídeos como meio complementar de segurança privada está sujeita à superação prévia de testes de anti agressividade, de sociabilidade e de obediência, com o seu tratador, em centro de treino cinotécnico devidamente reconhecido e autorizado.
+        \n4 - São submetidos a exame cinotécnico, a realizar perante júri designado pelo diretor nacional da PSP, tanto os canídeos como o pessoal de vigilância que os utiliza.
+        \n5 - Os elementos das forças de segurança que devem integrar o júri são designados anualmente pelo comandante-geral da Guarda Nacional Republicana (GNR) e pelo diretor nacional da PSP.
+        \n6 - O conteúdo, duração e métodos de avaliação do exame previsto no número anterior são aprovados por despacho do diretor nacional da PSP.
+        \n7 - O resultado do exame é notificado à entidade de segurança privada</string>
+    <string name="Texto_art83">1 - O transporte de canídeos deve ser efetuado em veículos e contentores apropriados à espécie e número de animais a transportar, nomeadamente em termos de espaço, ventilação ou oxigenação, temperatura, segurança e fornecimento de água, de modo a salvaguardar a proteção dos mesmos e a segurança de pessoas.
+        \n2 - Para efeitos do número anterior, as entidades de segurança privada que utilizem canídeos como meio complementar de segurança devem garantir que os animais são transportados em viaturas adaptadas ao transporte dos mesmos e que cumpram as normas legais aplicáveis.</string>
+    <string name="Texto_art84">As autorizações previstas no n.º 3 do artigo 33.º da Lei n.º 34/2013, de 16 de maio, são comunicadas, por via eletrónica, à Direção Nacional da PSP, devendo conter os seguintes elementos:
+        \na) Número de cartão profissional do tratador;
+        \nb) Número de registo do animal, nos termos do respetivo regime legal.
+        \nc) Data de emissão da autorização
+        \nd) Validade da autorização.</string>
+    <string name="Texto_art59N2K">....\nk) A utilização de canídeos em infração ao preceituado no artigo 33.º ou fora das condições previstas em regulamento; \n....</string>
+
+
+
+    <string-array name="titulo">
+        <item>Falta de Publicidade no Alvará</item>
+        <item>Contato Permanente</item>
+        <item>Registo Informático de Atividades</item>
+        <item>Autorização da CNPD do registo de actividades</item>
+        <item>Autorização da CNPD para o CCTV</item>
+        <item>Contratos de Prestação de Serviços</item>
+        <item>Ficheiros Individuais dos vigilantes</item>
+        <item>Livro de Reclamações</item>
+        <item>Disticos Informativos do CCTV</item>
+        <item>Uso de Rádio - licença da ANACOM</item>
+        <item>Alarme Pessoal do vigilante de resposta a alarmes</item>
+        <item>Verificar se o CCTV tem utilizadores autenticados</item>
+    </string-array>
+
+
+    <string-array name="leis">
+        <item>Toda a publicidade à empresa tem de ter a indicação do alvará</item>
+        <item>A empresa deve ter permanentemente um vigilante que assegure todos os contactos</item>
+        <item>Deve ter um registo informatico das suas actividades disponivel para apresentar aos agentes fiscalizadores</item>
+        <item>descrição 4</item>
+        <item>descrição 4</item>
+        <item>descrição 5</item>
+        <item>Copia do Cartão de Vigilante, C Registo Criminal, etc</item>
+        <item>descrição 7</item>
+        <item>descrição 8</item>
+        <item>Os Rádios PMR446 são de frequência livre (curto alcance)</item>
+        <item>descrição 10</item>
+        <item>descrição 11</item>
+    </string-array>
+
+
+
+
+
+</resources>

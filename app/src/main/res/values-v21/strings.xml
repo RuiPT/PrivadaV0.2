@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nomedoestabelecimentos">Nome do Estebelecimento:</string>
+    <string name="data">Data:</string>
+    <string name="hora">Hora:</string>
+</resources>
